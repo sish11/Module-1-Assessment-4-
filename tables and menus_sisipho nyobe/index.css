@@ -1,0 +1,220 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Table1
+{
+   border: 2px solid #C0C0C0;
+   background-color: transparent;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 0px;
+   margin: 0;
+}
+#Table1 td
+{
+   padding: 0;
+}
+#Table1 td div
+{
+   white-space: nowrap;
+}
+#Table1 p, #Table1 ul
+{
+   margin: 0;
+   padding: 0;
+}
+#Table1 .cell0
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 56px;
+   height: 30px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 128px;
+   height: 30px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 30px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 56px;
+   height: 100px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 128px;
+   height: 100px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell5
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 100px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell6
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 56px;
+   height: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell7
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 128px;
+   height: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell8
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell9
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 56px;
+   height: 46px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell10
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 128px;
+   height: 46px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#Table1 .cell11
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 46px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_TextArt1
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#TextArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
